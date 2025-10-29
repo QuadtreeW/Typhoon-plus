@@ -1,4 +1,4 @@
-# Typhoon Plus
+# Typhoon Plus - 台风路径3D可视化交互地图
 3D, web-based visualization of typhoon tracks with interactive analysis and multiple styling modes.
 
 Typhoon Plus renders historical typhoon paths on a 3D globe and supports searching by name, displaying multiple tracks at once, and switching between pressure- and category-based color schemes.
